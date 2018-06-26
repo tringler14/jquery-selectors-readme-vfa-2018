@@ -1,10 +1,10 @@
 // declare your functions here...
 function paragraphSelector(){ 
-  $('img')
+ return
 }
 
 function lastImageSelector (){
-  $('img:last')
+ re('img:last')
 }
 
 function ninjaBabySelector () {
